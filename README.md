@@ -1,7 +1,7 @@
 # ECPHP / DEV CC Sessions
 
-This repository hold links to sessions made at European Commission, within the
-DEV CC / ECPHP team.
+This repository contains links to sessions made at European Commission, within
+the DEV CC / ECPHP team.
 
 ## 2020-03: Test your tests
 
