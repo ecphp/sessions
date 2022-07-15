@@ -1,31 +1,28 @@
-# ECPHP / DEV CC Sessions
+# ECPHP Sessions
 
-This repository contains links to sessions made at European Commission, within
-the DEV CC / ECPHP team.
+This repository contains links to presentations given at the European Commission by the ECPHP team.
 
 ## 2020-03: Test your tests
 
-* Download: [Test your tests][Test Your Tests]
-* Source: Not available
+* [Test your tests presentation][Test your tests]
 
 ## 2020-05: Why code quality matters
 
-* Download: [Why code quality matters][Why code quality matters]
-* Source: Not available
+* [Why code quality matters presentation][Why code quality matters]
 
-## 2021-11: Composition and Inheritance
+## 2021-11: Composition and inheritance
 
-* Download: [Composition and Inheritance][Composition and Inheritance]
-* Source: [Composition and Inheritance source][Composition and Inheritance source]
+* [Composition and inheritance presentation][Composition and inheritance]
+* [Composition and inheritance source][Composition and inheritance source]
 
-## 2022-6: Complexity and Monads
+## 2022-06: Complexity and monads
 
-* Download: [Composition and Inheritance][Composition and Inheritance]
-* Source: [Composition and Inheritance source][Composition and Inheritance source]
+* [Complexity and monads presentation][Complexity and monads]
+* [Complexity and monads source][Complexity and monads source]
 
-[Test Your Tests]: resources/Test%20your%20tests.pdf
+[Test your tests]: resources/Test%20your%20tests.pdf
 [Why code quality matters]: resources/Why%20code%20quality%20matters.pdf
-[Composition and Inheritance]: resources/session--composition-and-inheritance--29--437e9bb.pdf
-[Composition and Inheritance source]: https://code.europa.eu/ecphp/session-composition-and-inheritance
-[Complexity and Monads]: resources/9--session--4b84622.pdf
-[Complexity and Monads source]: https://code.europa.eu/ecphp/session-complexity-and-monads
+[Composition and inheritance]: resources/session--composition-and-inheritance--29--437e9bb.pdf
+[Composition and inheritance source]: https://code.europa.eu/ecphp/session-composition-and-inheritance
+[Complexity and monads]: resources/9--session--4b84622.pdf
+[Complexity and monads source]: https://code.europa.eu/ecphp/session-complexity-and-monads
