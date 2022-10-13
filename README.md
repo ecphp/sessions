@@ -22,7 +22,7 @@ This repository contains links to presentations given at the European Commission
 
 ## 2022-10: State of Nix at European Commission - Summer of Nix 2022
 
-* [State of Nix at European Commission][State of Nix at European Commission]
+* [State of Nix at European Commission presentation][State of Nix at European Commission]
 * [State of Nix at European Commission source][State of Nix at European Commission source]
 
 [Test your tests]: resources/Test%20your%20tests.pdf
