@@ -20,9 +20,16 @@ This repository contains links to presentations given at the European Commission
 * [Complexity and monads presentation][Complexity and monads]
 * [Complexity and monads source][Complexity and monads source]
 
+## 2022-10: State of Nix at European Commission - Summer of Nix 2022
+
+* [State of Nix at European Commission][State of Nix at European Commission]
+* [State of Nix at European Commission source][State of Nix at European Commission source]
+
 [Test your tests]: resources/Test%20your%20tests.pdf
 [Why code quality matters]: resources/Why%20code%20quality%20matters.pdf
 [Composition and inheritance]: resources/session--composition-and-inheritance--29--437e9bb.pdf
 [Composition and inheritance source]: https://code.europa.eu/ecphp/session-composition-and-inheritance
 [Complexity and monads]: resources/9--session--4b84622.pdf
 [Complexity and monads source]: https://code.europa.eu/ecphp/session-complexity-and-monads
+[State of Nix at European Commission]: resources/4--state-of-nix-at-ec--summer-of-nix-2022--db05056.pdf
+[State of Nix at European Commission source]: https://code.europa.eu/ecphp/session-nix-at-european-commission-summer-of-nix
