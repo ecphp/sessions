@@ -25,6 +25,11 @@ This repository contains links to presentations given at the European Commission
 * [State of Nix at European Commission presentation][State of Nix at European Commission]
 * [State of Nix at European Commission source][State of Nix at European Commission source]
 
+## 2022-11: Authentication at European Commission
+
+* [Authentication at European Commission presentation][Authentication at European Commission]
+* [Authentication at European Commission source][Authentication at European Commission source]
+
 [Test your tests]: resources/Test%20your%20tests.pdf
 [Why code quality matters]: resources/Why%20code%20quality%20matters.pdf
 [Composition and inheritance]: resources/session--composition-and-inheritance--29--437e9bb.pdf
@@ -33,3 +38,5 @@ This repository contains links to presentations given at the European Commission
 [Complexity and monads source]: https://code.europa.eu/ecphp/session-complexity-and-monads
 [State of Nix at European Commission]: resources/4--state-of-nix-at-ec--summer-of-nix-2022--db05056.pdf
 [State of Nix at European Commission source]: https://code.europa.eu/ecphp/session-nix-at-european-commission-summer-of-nix
+[Authentication at European Commission]: resources/session--authentication-at-ec.pdf
+[Authentication at European Commission source]: https://code.europa.eu/ecphp/session-authentication-at-ec
