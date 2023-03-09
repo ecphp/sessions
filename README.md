@@ -30,6 +30,11 @@ This repository contains links to presentations given at the European Commission
 * [Authentication at European Commission presentation][Authentication at European Commission]
 * [Authentication at European Commission source][Authentication at European Commission source]
 
+## 2023-03: Clean Architecture
+
+* [Clean Architecture presentation][Clean Architecture presentation]
+* [Clean Architecture source][Clean Architecture source]
+
 [Test your tests]: resources/Test%20your%20tests.pdf
 [Why code quality matters]: resources/Why%20code%20quality%20matters.pdf
 [Composition and inheritance]: resources/session--composition-and-inheritance--29--437e9bb.pdf
@@ -40,3 +45,5 @@ This repository contains links to presentations given at the European Commission
 [State of Nix at European Commission source]: https://code.europa.eu/ecphp/session-nix-at-european-commission-summer-of-nix
 [Authentication at European Commission]: resources/session--authentication-at-ec.pdf
 [Authentication at European Commission source]: https://code.europa.eu/ecphp/session-authentication-at-ec
+[Clean Architecture presentation]: resources/1--session--clean-architecture--8283fda.pdf
+[Clean Architecture source]: https://code.europa.eu/ecphp/session-clean-architecture
