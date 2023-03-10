@@ -45,5 +45,5 @@ This repository contains links to presentations given at the European Commission
 [State of Nix at European Commission source]: https://code.europa.eu/ecphp/session-nix-at-european-commission-summer-of-nix
 [Authentication at European Commission]: resources/session--authentication-at-ec.pdf
 [Authentication at European Commission source]: https://code.europa.eu/ecphp/session-authentication-at-ec
-[Clean Architecture presentation]: resources/1--session--clean-architecture--8283fda.pdf
+[Clean Architecture presentation]: resources/session--clean-architecture.pdf
 [Clean Architecture source]: https://code.europa.eu/ecphp/session-clean-architecture
